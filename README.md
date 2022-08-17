@@ -9,3 +9,7 @@ other datasets.
 5.Embedding vectors evaluated Word2vec,Glove and tested for BiLSTM.
 6.Detail level information is furnished in the project report.
 7.Code syntaxes are referenced from https://keras.io/ and few tutorials online.
+
+
+This project also contains another python file that has traditional ML models comparision using countvectorization and tfidf using ML pipeline.
+The deep learning models comparision file has WOrd2vec,Glove implementation using BiLSTM,GRU,CNN with Passive aggressive classifier to implement online learning.
